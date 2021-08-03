@@ -1,5 +1,5 @@
 ## Firebase-chat-app
-This app is bootstrapped with create-react-app.
+This app was bootstrapped with create-react-app.
 
 ## Technologies
 - Firebase
